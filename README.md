@@ -42,7 +42,7 @@ This repo is beignner friendly.Anyone new to the programming language can start 
 
 ### 📁 Organized Modules
 
-#### **1. Array/** - Array Programming
+#### **1. Array/** - Array Programming https://github.com/AkritiGyawali/Cpp/tree/master/Array
 - `basic.cpp` - Array fundamentals
 - `exercise.cpp` - Array exercises
 - `sizeofoperator.cpp` - Sizeof operator demonstrations
@@ -52,7 +52,7 @@ This repo is beignner friendly.Anyone new to the programming language can start 
   - `hw.cpp` to `hw5.cpp` - 2D array exercises
   - **String/** - String operations
 
-#### **2. conditionwala.cpp/** - Conditional Statements
+#### **2. conditionwala.cpp/** - Conditional Statements https://github.com/AkritiGyawali/Cpp/tree/master/conditionwala.cpp
 - `absolutevalue.cpp` - Absolute value calculations
 - `age.cpp` - Age-based conditionals
 - `calculator.cpp` - Calculator implementation
@@ -66,7 +66,7 @@ This repo is beignner friendly.Anyone new to the programming language can start 
 - `triangleside.cpp` - Triangle side validation
 - **loopwala.cpp/** - Loop implementations
 
-#### **3. functionwala.cpp/** - Functions
+#### **3. functionwala.cpp/** - Functions https://github.com/AkritiGyawali/Cpp/tree/master/functionwala.cpp
 - `basic.cpp` - Function basics
 - `combination.cpp` - Combination calculations
 - `greatest.cpp` - Finding greatest numbers
@@ -77,7 +77,7 @@ This repo is beignner friendly.Anyone new to the programming language can start 
 - `swapfun.cpp` / `swapingusingthirdvariable.cpp` - Swapping techniques
 - **recurssion.cpp/** - Recursive functions
 
-#### **4. opp.cpp/** - Object-Oriented Programming
+#### **4. opp.cpp/** - Object-Oriented Programming https://github.com/AkritiGyawali/Cpp/tree/master/opp.cpp
 - `basic.cpp` / `boilerplate.cpp` - OOP fundamentals
 - `constructor.cpp` - Constructor implementations
 - `destructor.cpp` - Destructor usage
@@ -92,7 +92,7 @@ This repo is beignner friendly.Anyone new to the programming language can start 
 - `practical1.cpp` to `practical4.cpp` - OOP practical assignments
 - `x1.cpp` to `x7.cpp` - Additional OOP exercises
 
-#### **5. paternprinting/** - Pattern Printing
+#### **5. paternprinting/** - Pattern Printing https://github.com/AkritiGyawali/Cpp/tree/master/paternprinting
 - `square.cpp` / `numbersquare.cpp` / `alphabetsquare.cpp` - Square patterns
 - `triangle.cpp` / `reversetriangle.cpp` / `ultatriangle.cpp` - Triangle patterns
 - `startriangle.cpp` / `startrianglereverse.cpp` - Star triangles
@@ -106,7 +106,7 @@ This repo is beignner friendly.Anyone new to the programming language can start 
 - `alphab.cpp` / `alphabet.cpp` / `alphabetriangle.cpp` - Alphabet patterns
 - `hw.cpp`, `hw1.cpp`, `hw2.cpp` - Pattern homework
 
-#### **6. DSA/** - Data Structures and Algorithms
+#### **6. DSA/** - Data Structures and Algorithms https://github.com/AkritiGyawali/Cpp/tree/master/DSA
 - **Stack/** - Stack implementations
 - Sorting -Bubblesort<br>
           -Insertionsort<br>
