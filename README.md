@@ -31,7 +31,7 @@ This repo is beignner friendly.Anyone new to the programming language can start 
 ### Core Concepts
 
 #### **Basic Programs**
-- `hellowoprld.cpp`https://github.com/helloworld.cpp - Basic Hello World program
+- `hellowoprld.cpp`https://github.com/AkritiGyawali/helloworld.cpp - Basic Hello World program
 - `welcome.cpp` - Welcome message program
 - `factorial.cpp` - Factorial calculation
 - `prime.c` / `prime_factor.cpp` - Prime number operations
