@@ -31,13 +31,11 @@ This repo is beignner friendly.Anyone new to the programming language can start 
 ### Core Concepts
 
 #### **Basic Programs**
-- `hellowoprld.cpp`https://github.com/AkritiGyawali/Cpp/blob/master/helloworld.cpp - Basic Hello World program
-- `welcome.cpp` - Welcome message program
+- `hellowoprld.cpp` - Basic Hello World program
 - `factorial.cpp` - Factorial calculation
 - `prime.c` / `prime_factor.cpp` - Prime number operations
 - `switch_case.cpp` - Switch case demonstrations
 - `function.cpp` - Function implementations
-- `game.cpp` - Simple game program
 - `leetcode1.cpp` - LeetCode problem solutions
 
 ### 📁 Organized Modules
