@@ -1,0 +1,35 @@
+
+*.exe
+*.out
+a.out
+prime
+
+# Object files
+*.o
+*.obj
+
+# Compiled libraries
+*.so
+*.a
+*.lib
+*.dll
+*.dylib
+
+# Editor/IDE files
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build directories
+build/
+bin/
+obj/
+
+# Core dumps
+core
+core.*
+
+# Specific file
+game.cpp
